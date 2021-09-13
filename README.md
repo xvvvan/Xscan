@@ -60,6 +60,7 @@ all 代表全端口扫描 也可以1-65535这种形式来输入要扫描的ip或
 会在脚本同一目录下生成result.txt
 
 ##### 注意：只有识别出来了banner的会输出
+![image](https://user-images.githubusercontent.com/62601362/133023865-c0181c85-c49a-421c-b6c4-c38ec1e4361e.png)
 
-![image-20210913122416214](C:\Users\Alienware\AppData\Roaming\Typora\typora-user-images\image-20210913122416214.png)
+
 
